@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Experience"
-description: "我的主要经历"
+description: ""
 header-img: "img/zhihu.jpg"
 ---
 
