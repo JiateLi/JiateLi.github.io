@@ -7,7 +7,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509158996&di=1f54e5961c0aff7124bd0dcc0d6ceba1&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.handsonlabs.org%2Fwp-content%2Fuploads%2F2013%2F11%2Fcmu2.png" align="center" width="50" height="50"></p>
+    <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509158996&di=1f54e5961c0aff7124bd0dcc0d6ceba1&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.handsonlabs.org%2Fwp-content%2Fuploads%2F2013%2F11%2Fcmu2.png" align="center" width="90" height="90"></p>
 </center>
 
 我是李嘉特。
