@@ -1,52 +1,40 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本，六经皆我注脚 "
+description: "关于我"
 header-img: "img/green.jpg"
 ---
 
 
 <center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
+    <p><img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1509158996&di=1f54e5961c0aff7124bd0dcc0d6ceba1&imgtype=jpg&er=1&src=http%3A%2F%2Fwww.handsonlabs.org%2Fwp-content%2Fuploads%2F2013%2F11%2Fcmu2.png" align="center"></p>
 </center>
 
-我是李嘉特，每天千字践行者。
+我是李嘉特。
 
 
-###坚信
+坚信
 
 
-- 元认知乃一切之源
-- 学苟知本，六经皆我注脚 
-- 一切技能皆可习得，包括写作
-- 「持续」并不是坚持，写就是最好的回报
+- 成长是使内心强大的最好供给
+- 做一个正直的人
+- 认真做好每一件事情
+- 运动使你快乐
+
+代表作：
+
+- [《留着以后用》](http://lijiatetech.com/)
 
 
-###关注：
+我的朋友们
 
+- [广告位招租](http://lijiatetech.com)
 
-- [XXX](http://www.666.com/)
-
-
-
-
-
-###代表作：
-
-- [《留着以后用》](http://woyebuzhidao.com/)
-
-
-###我的朋友们
-
-- [梁朝伟](http://广告位招租.me)
-
-###联系
+联系
 
 - [博客：www.lijiatetech.com](www.lijiatetech.com)
-
-<center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
-</center>
+- [LinkedIn: www.linkedin.com/in/jiateli/](https://www.linkedin.com/in/jiateli/)
+- [Github：github.com/JiateLi/](https://github.com/JiateLi/)
 
 
 
