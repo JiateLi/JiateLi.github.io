@@ -23,7 +23,7 @@ header-img: "img/green.jpg"
 
 代表作：
 
-- [《留着以后用》](http://lijiatetech.com/)
+- [留着以后用](http://lijiatetech.com/)
 
 
 我的朋友们
